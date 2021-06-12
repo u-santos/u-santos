@@ -1,4 +1,4 @@
-![Ecole 42](https://i.imgur.com/VkGc1Xt.png)
+![Ecole 42](https://i.imgur.com/zRTe6Gf.png)
 
 ---
 
