@@ -20,3 +20,23 @@
 ![C](https://img.shields.io/badge/--3165FF?style=flat-square&logo=c&logoColor=white)
 ![Vim](https://img.shields.io/badge/-Vim-019331?style=flat-square&logo=vim&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/-Vagrant-1A7EF7?style=flat-square&logo=vagrant&logoColor=white)
+
+---
+
+<p align="center">
+  <a href="https://github.com/u-santos/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=u-santos&layout=compact&theme=dracula"
+    />
+  </a>
+  <a href="https://github.com/u-santos/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=u-santos&show_icons=true&theme=dracula"
+    />
+  </a>
+</p>
+
+---
