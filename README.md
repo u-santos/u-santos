@@ -20,6 +20,7 @@
 ![C](https://img.shields.io/badge/--3165FF?style=flat-square&logo=c&logoColor=white)
 ![Vim](https://img.shields.io/badge/-Vim-019331?style=flat-square&logo=vim&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/-Vagrant-1A7EF7?style=flat-square&logo=vagrant&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
 ---
 
