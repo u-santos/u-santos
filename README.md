@@ -1,11 +1,11 @@
-![Ecole 42](https://static.wixstatic.com/media/1b540d_68ddbf4ef75540a1bc3f21471d250df4~mv2.png/v1/fill/w_800,h_277,al_c/1b540d_68ddbf4ef75540a1bc3f21471d250df4~mv2.png)
+![Ecole 42](https://i.imgur.com/VkGc1Xt.png)
 
-<p align="center">
-  <a href="https://github.com/u-santos" target="_blank"><img alt="Github" src="https://img.shields.io/badge/-@ulissessoliveira-%23181717?style=flat-square&logo=github"></a>
-  <a href="https://www.instagram.com/ulissessoliveira/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-black?style=flat-square&logo=instagram&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/ulissessoliveira/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/-Linkedin-black?style=flat-square&logo=linkedin&logoColor=white"></a>
-  
-</p>
+---
+
+| [![u-santos's GitHub stats](https://github-readme-stats.vercel.app/api?username=u-santos&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=radical)](https://github.com/u-santos?tab=repositories) | [![u-santos's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=u-santos&layout=compact&hide_border=true&theme=radical)](https://github.com/u-santos?tab=repositories) |
+|:-:|:-:|
+
+---
 
 <h1 style="color: #5e9ca0; text-align: center;"><span style="color: #000000;"><strong>𝗠𝘆 𝗧𝗲𝗰h 𝗦𝘁𝗮𝗰𝗸</strong></span></h1>
 
@@ -22,22 +22,3 @@
 ![Vagrant](https://img.shields.io/badge/-Vagrant-1A7EF7?style=flat-square&logo=vagrant&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
----
-
-<p align="center">
-  <a href="https://github.com/u-santos/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=u-santos&layout=compact&theme=dracula"
-    />
-  </a>
-  <a href="https://github.com/u-santos/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=u-santos&show_icons=true&theme=dracula"
-    />
-  </a>
-</p>
-
----
